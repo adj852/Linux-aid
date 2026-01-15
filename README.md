@@ -59,7 +59,6 @@ No advanced Linux knowledge is required.
 🚀 Getting Started (Step by Step)
 
 1️⃣ Clone the repository
-
 git clone https://github.com/adj852/linux-aid.git
 
 2️⃣ Enter the tool directory
